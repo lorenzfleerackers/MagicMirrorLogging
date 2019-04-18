@@ -40,15 +40,14 @@ nano package.json
   </li>
   <li>Open the node_helper or the javascript file where you define your API's with express</li>
   <li>add the folowing code
-    ```js
+  <pre>
     var express = require('express'),
         expressLogging = require('express-logging'),
         logger = require('logops');
 
     var app = express();
-    app.use(expressLogging(logger));
-
-    ```
+        app.use(expressLogging(logger));
+  </pre>
   </li>
 </ol>
 
