@@ -37,6 +37,7 @@ nano package.json
    <ul>
      <li>npm install express-logging</li>
      <li>npm install logops</li>
+    </ul>
   </li>
   <li>Open the node_helper or the javascript file where you define your API's with express</li>
   <li>add the folowing code
