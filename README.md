@@ -12,6 +12,8 @@
 cd ~
 git clone https://github.com/lorenzfleerackers/MagicMirrorLogging.git
 </pre>
+<p>When you cloned the repo copy the logging.py file to the MagicMirror directory.</p>
+<pre>cp ~/MagicMirrorLogging/logging.py ~/MagicMirror</pre>
 
 <h3>Use npm scripts to start the logging</h3>
 <pre>
