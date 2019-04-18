@@ -13,5 +13,18 @@ cd ~
 git clone https://github.com/lorenzfleerackers/MagicMirrorLogging.git
 </pre>
 
+<h3>Use npm scripts to start the logging</h3>
+<pre>
+cd ~/MagicMirror
+nano package.json
+</pre>
+<p>Add the following lines
+<pre>
+"start:log": "python logging.py",
+"start:searchLog": "python /home/pi/MagicMirrorLogging/localLogging.py",
+</pre>
+</p>
+<p>after : <pre>"start": "sh run-start.sh",</pre></p>
+
 
 
