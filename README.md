@@ -30,7 +30,7 @@ nano package.json
 <p>Save the file end leave</p>
 
 <h3>Install <a href="https://www.npmjs.com/package/express-logging">express-logging</a> to log the HTTP requests</h3>
-<p>If you want the http requests that you made or those from <a href="https://github.com/Jopyth/MMM-Remote-Control.git">MMM-Remote-Control</a> or <a href="">MMM-ChangeConfig</a>
+<p>If you want to log the http requests that you made or those from <a href="https://github.com/Jopyth/MMM-Remote-Control.git">MMM-Remote-Control</a> or <a href="">MMM-ChangeConfig</a>
 <ol>
   <li>Go to the module you want to log (this can be your own module or the one from above)</li>
   <li>Install the package with 
@@ -62,27 +62,27 @@ nano package.json
   </tr>
   <tr>
     <td>Start mirror without options</td>
-    <td></td>
+    <td>Start the mirror and show all the logs,errors and requests</td>
   </tr>
   <tr>
     <td>Show info</td>
-    <td></td>
+    <td>With this option the mirror will start and you will see console.info logs from all the modules without showing other errors or logs</td>
   </tr>
   <tr>
     <td>Show logs</td>
-    <td></td>
+    <td>>With this option the mirror will start and you will seee console.log logs from all the modules without showing other errors or info</td>
   </tr>
   <tr>
     <td>Show errors</td>
-    <td></td>
+    <td>With this option the mirror will start and show only the errors without all the logs or info</td>
   </tr>
   <tr>
     <td>Show requests</td>
-    <td></td>
+    <td>With this option you will start the magic mirror without showing any logs or errors only the http requests from express-logging will be visible</td>
   </tr>
   <tr>
     <td>Leave</td>
-    <td></td>
+    <td>Quit the option list without starting the mirror</td>
   </tr>
 </table>
 <h3>npm run start:searchLog</h3>
@@ -97,7 +97,7 @@ nano package.json
   </tr>
   <tr>
     <td>Show logs</td>
-    <td></td>
+    <td</td>
   </tr>
   <tr>
     <td>Show errors</td>
