@@ -85,6 +85,20 @@ nano package.json
     <td>Quit the option list without starting the mirror</td>
   </tr>
 </table>
+<table>
+  <tr>
+    <th>options</th>
+    <th>explanation</th>
+  </tr>
+  <tr>
+    <td>Logging to file</td>
+    <td>The logs will be saved to the log.log file and the errors will be saved to err.log</td>
+  </tr>
+  <tr>
+    <td>No logging</td>
+    <td>No logs will be saved to a file</td>
+  </tr>
+</table>
 <h3>npm run start:searchLog</h3>
 <table>
   <tr>
