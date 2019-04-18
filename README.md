@@ -8,7 +8,10 @@
 <a href="https://github.com/shbatm/MMM-Logging">MMM-Logging</a>
 
 <h3>As last you need to clone this repo in the Raspberry Pi home directory</h3>
-
+<pre>
+cd ~
+git clone https://github.com/shbatm/MMM-Logging.git
+</pre>
 
 
 
