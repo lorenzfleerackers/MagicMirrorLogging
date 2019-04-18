@@ -28,5 +28,39 @@ nano package.json
 </p>
 <p>after : <pre>"start": "sh run-start.sh",</pre></p>
 
+<h2>What can you do with the logging?</h2>
+<p>You can start the Magic Mirror with only showing the info/logs/error or the HTTP requests.</p>
+<h3>npm run start:log</h3>
+<table>
+  <tr>
+    <th>options</th>
+    <th>explanation</th>
+  </tr>
+  <tr>
+    <td>Start mirror without options</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Show info</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Show logs</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Show errors</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Show requests</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Leave</td>
+    <td></td>
+  </tr>
+</table>
+<h3>npm run start:searchLog</h3>
 
 
