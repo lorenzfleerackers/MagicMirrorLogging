@@ -70,7 +70,7 @@ nano package.json
   </tr>
   <tr>
     <td>Show logs</td>
-    <td>>With this option the mirror will start and you will seee console.log logs from all the modules without showing other errors or info</td>
+    <td>With this option the mirror will start and you will seee console.log logs from all the modules without showing other errors or info</td>
   </tr>
   <tr>
     <td>Show errors</td>
@@ -107,23 +107,23 @@ nano package.json
   </tr>
   <tr>
     <td>Show info</td>
-    <td></td>
+    <td>Show all the info from the logfile in the terminal</td>
   </tr>
   <tr>
     <td>Show logs</td>
-    <td</td>
+    <td>You can filter all the logs from the logfile on date/modulename</td>
   </tr>
   <tr>
     <td>Show errors</td>
-    <td></td>
+    <td>Show the error log file in the terminal</td>
   </tr>
   <tr>
     <td>Show requests</td>
-    <td></td>
+    <td>Show all the http requests from the logfile in the terminal</td>
   </tr>
   <tr>
     <td>Quit</td>
-    <td></td>
+    <td>Stop the loop</td>
   </tr>
 </table>
 
