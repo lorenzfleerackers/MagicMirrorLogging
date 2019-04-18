@@ -36,10 +36,20 @@ nano package.json
   <li>Install the package with 
    <ul>
      <li>npm install express-logging</li>
-     <li>npm install logops<li>
+     <li>npm install logops</li>
   </li>
   <li>Open the node_helper or the javascript file where you define your API's with express</li>
-     <li></li>
+  <li>add the folowing code
+    ```js
+    var express = require('express'),
+        expressLogging = require('express-logging'),
+        logger = require('logops');
+
+    var app = express();
+    app.use(expressLogging(logger));
+
+    ```
+  </li>
 </ol>
 
 <h2>What can you do with the logging?</h2>
