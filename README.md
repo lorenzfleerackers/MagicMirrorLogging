@@ -50,6 +50,7 @@ nano package.json
   </pre>
   </li>
 </ol>
+<a href="https://www.npmjs.com/package/express-logging">express-logging</a>
 
 <h2>What can you do with the logging?</h2>
 <p>You can start the Magic Mirror with only showing the info/logs/error or the HTTP requests.</p>
