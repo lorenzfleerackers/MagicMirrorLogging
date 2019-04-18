@@ -32,16 +32,13 @@ nano package.json
 <h3>Install express-logging to log the HTTP requests</h3>
 <p>If you want the http requests that you made or those from <a href="https://github.com/Jopyth/MMM-Remote-Control.git">MMM-Remote-Control</a> or <a href="">MMM-ChangeConfig</a>
 <ul>
-  <li>Go to the module you want to log (this can be your own module or the one from above)</li>
-  <li>Install the package with 
-  <pre>
-    npm install express-logging
-  </pre>
-  <pre>
-    npm install logops
-  </pre>
-  </li>
-  <li>Open the node_helper or the javascript file where you define your API's with express</li>
+  <ol>Go to the module you want to log (this can be your own module or the one from above)</ol>
+  <ol>Install the package with 
+   <ul>
+     <li>npm install express-logging</li>
+     <li>npm install logops<li>
+  </ol>
+  <ol>Open the node_helper or the javascript file where you define your API's with express</ol>
   <li>
 </ul>
 
