@@ -45,7 +45,6 @@ nano package.json
     var express = require('express'),
         expressLogging = require('express-logging'),
         logger = require('logops');
-
     var app = express();
         app.use(expressLogging(logger));
   </pre>
