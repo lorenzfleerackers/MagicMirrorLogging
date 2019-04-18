@@ -7,7 +7,7 @@
 <h3>After that you need to install the "MMM-Logging" module on your Magic-Mirror.</h3>
 <a href="https://github.com/shbatm/MMM-Logging">MMM-Logging</a>
 
-<h3>As last you need to clone this repo in your Raspberry Pi</h3>
+<h3>As last you need to clone this repo in the Raspberry Pi home directory</h3>
 
 
 
