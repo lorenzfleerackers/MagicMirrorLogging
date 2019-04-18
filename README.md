@@ -27,9 +27,13 @@ nano package.json
 </pre>
 </p>
 <p>after : <pre>"start": "sh run-start.sh",</pre></p>
-
+<p>Save the file end leave</p>
 <h2>What can you do with the logging?</h2>
 <p>You can start the Magic Mirror with only showing the info/logs/error or the HTTP requests.</p>
+
+<h3>Install express-logging to log the HTTP requests</h3>
+<p>If you want the http requests that you made or those from <a href="https://github.com/Jopyth/MMM-Remote-Control.git">MMM-Remote-Control</a> or <a href="">MMM-ChangeConfig</a>
+
 <h3>npm run start:log</h3>
 <table>
   <tr>
