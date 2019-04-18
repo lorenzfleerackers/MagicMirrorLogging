@@ -29,7 +29,7 @@ nano package.json
 <p>after : <pre>"start": "sh run-start.sh",</pre></p>
 <p>Save the file end leave</p>
 
-<h3>Install express-logging to log the HTTP requests</h3>
+<h3>Install express-logging to log the HTTP requests (<a href="https://www.npmjs.com/package/express-logging">express-logging</a>)</h3>
 <p>If you want the http requests that you made or those from <a href="https://github.com/Jopyth/MMM-Remote-Control.git">MMM-Remote-Control</a> or <a href="">MMM-ChangeConfig</a>
 <ol>
   <li>Go to the module you want to log (this can be your own module or the one from above)</li>
@@ -50,7 +50,6 @@ nano package.json
   </pre>
   </li>
 </ol>
-<a href="https://www.npmjs.com/package/express-logging">express-logging</a>
 
 <h2>What can you do with the logging?</h2>
 <p>You can start the Magic Mirror with only showing the info/logs/error or the HTTP requests.</p>
