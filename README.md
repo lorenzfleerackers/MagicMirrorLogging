@@ -62,5 +62,31 @@ nano package.json
   </tr>
 </table>
 <h3>npm run start:searchLog</h3>
+<table>
+  <tr>
+    <th>options</th>
+    <th>explanation</th>
+  </tr>
+  <tr>
+    <td>Show info</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Show logs</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Show errors</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Show requests</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Quit</td>
+    <td></td>
+  </tr>
+</table>
 
 
